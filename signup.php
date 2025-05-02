@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="style.css">
-  <title>Sign Up</title>
-
-</head>
+<?php include 'header.php'; ?>
 <body>
 
   <form class="signup-form" action="/submit-signup" method="post">
