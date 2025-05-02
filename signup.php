@@ -7,7 +7,7 @@
     <input type="email" name="email" placeholder="Email" required>
     <input type="password" name="password" placeholder="Password" required>
     <input type="password" name="confirm_password" placeholder="Confirm Password" required>
-    <input type="submit" value="Register">
+    <input type="submit" value="signup">
   </form>
 
 </body>
